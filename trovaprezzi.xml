@@ -1697,43 +1697,11 @@
     <ParentID>9416194359624</ParentID>
   </offer>
   <offer>
-    <Nome><![CDATA[Autodesk AutoCAD - 2023 / 1 anno / Windows]]></Nome>
-    <Marca><![CDATA[Autodesk]]></Marca>
-    <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
-    <PrezzoRiferimento>109.90</PrezzoRiferimento>
-    <PrezzoVendita>59.90</PrezzoVendita>
-    <CodiceInterno>AUT-ATCAD23-WIN-1D-EDU</CodiceInterno>
-    <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194661704]]></LinkOfferta>
-    <Disponibilita>disponibile</Disponibilita>
-    <AlberoCategorie><![CDATA[Modellazione 3D]]></AlberoCategorie>
-    <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/format_12_d02200bc-f669-4332-a448-a304980217af.png?v=1778433011]]></LinkImmagine>
-    <SpeseSpedizione>0</SpeseSpedizione>
-    <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[AUT-ATCAD23-WIN-1D-EDU]]></CodiceFornitore>
-    <ParentID>9412983882056</ParentID>
-  </offer>
-  <offer>
-    <Nome><![CDATA[Autodesk AutoCAD - 2023 / 1 anno / macOS]]></Nome>
-    <Marca><![CDATA[Autodesk]]></Marca>
-    <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
-    <PrezzoRiferimento>109.90</PrezzoRiferimento>
-    <PrezzoVendita>59.90</PrezzoVendita>
-    <CodiceInterno>AUT-ATCAD23-MAC-1D-EDU</CodiceInterno>
-    <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194694472]]></LinkOfferta>
-    <Disponibilita>disponibile</Disponibilita>
-    <AlberoCategorie><![CDATA[Modellazione 3D]]></AlberoCategorie>
-    <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/format_12_d02200bc-f669-4332-a448-a304980217af.png?v=1778433011]]></LinkImmagine>
-    <SpeseSpedizione>0</SpeseSpedizione>
-    <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[AUT-ATCAD23-MAC-1D-EDU]]></CodiceFornitore>
-    <ParentID>9412983882056</ParentID>
-  </offer>
-  <offer>
     <Nome><![CDATA[Autodesk AutoCAD - 2024 / 1 anno / Windows]]></Nome>
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>129.90</PrezzoRiferimento>
-    <PrezzoVendita>69.90</PrezzoVendita>
+    <PrezzoVendita>59.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD24-WIN-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194792776]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1749,7 +1717,7 @@
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>129.90</PrezzoRiferimento>
-    <PrezzoVendita>69.90</PrezzoVendita>
+    <PrezzoVendita>59.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD24-MAC-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194825544]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1765,7 +1733,7 @@
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>139.90</PrezzoRiferimento>
-    <PrezzoVendita>79.90</PrezzoVendita>
+    <PrezzoVendita>69.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD25-WIN-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194923848]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1781,7 +1749,7 @@
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>149.90</PrezzoRiferimento>
-    <PrezzoVendita>79.90</PrezzoVendita>
+    <PrezzoVendita>69.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD25-MAC-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=50130194956616]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1797,7 +1765,7 @@
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>189.90</PrezzoRiferimento>
-    <PrezzoVendita>89.90</PrezzoVendita>
+    <PrezzoVendita>79.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD26-WIN-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=51092196098376]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1813,7 +1781,7 @@
     <Marca><![CDATA[Autodesk]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
     <PrezzoRiferimento>99.90</PrezzoRiferimento>
-    <PrezzoVendita>89.90</PrezzoVendita>
+    <PrezzoVendita>79.90</PrezzoVendita>
     <CodiceInterno>AUT-ATCAD26-MAC-1D-EDU</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=51894382920008]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -1822,6 +1790,38 @@
     <SpeseSpedizione>0</SpeseSpedizione>
     <Condizione>nuovo</Condizione>
     <CodiceFornitore><![CDATA[AUT-ATCAD26-MAC-1D-EDU]]></CodiceFornitore>
+    <ParentID>9412983882056</ParentID>
+  </offer>
+  <offer>
+    <Nome><![CDATA[Autodesk AutoCAD - 2027 / 1 anno / Windows]]></Nome>
+    <Marca><![CDATA[Autodesk]]></Marca>
+    <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
+    <PrezzoRiferimento>189.90</PrezzoRiferimento>
+    <PrezzoVendita>89.90</PrezzoVendita>
+    <CodiceInterno>53895227310408</CodiceInterno>
+    <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=53895227310408]]></LinkOfferta>
+    <Disponibilita>disponibile</Disponibilita>
+    <AlberoCategorie><![CDATA[Modellazione 3D]]></AlberoCategorie>
+    <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/format_12_d02200bc-f669-4332-a448-a304980217af.png?v=1778433011]]></LinkImmagine>
+    <SpeseSpedizione>0</SpeseSpedizione>
+    <Condizione>nuovo</Condizione>
+    <CodiceFornitore><![CDATA[53895227310408]]></CodiceFornitore>
+    <ParentID>9412983882056</ParentID>
+  </offer>
+  <offer>
+    <Nome><![CDATA[Autodesk AutoCAD - 2027 / 1 anno / macOS]]></Nome>
+    <Marca><![CDATA[Autodesk]]></Marca>
+    <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS/MAC DURATA LICENZA : 1 ANNO Autodesk AutoCAD è uno dei software di progettazione assistita da computer (CAD) più diffusi a livello globale e rappresenta uno degli strumenti fondamentali nei settori dell'ingegneria, dell'architettura e del design.]]></Descrizione>
+    <PrezzoRiferimento>189.90</PrezzoRiferimento>
+    <PrezzoVendita>89.90</PrezzoVendita>
+    <CodiceInterno>53895227343176</CodiceInterno>
+    <LinkOfferta><![CDATA[https://dilicense.com/products/autodesk-autocad?variant=53895227343176]]></LinkOfferta>
+    <Disponibilita>disponibile</Disponibilita>
+    <AlberoCategorie><![CDATA[Modellazione 3D]]></AlberoCategorie>
+    <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/format_12_d02200bc-f669-4332-a448-a304980217af.png?v=1778433011]]></LinkImmagine>
+    <SpeseSpedizione>0</SpeseSpedizione>
+    <Condizione>nuovo</Condizione>
+    <CodiceFornitore><![CDATA[53895227343176]]></CodiceFornitore>
     <ParentID>9412983882056</ParentID>
   </offer>
   <offer>
@@ -3412,8 +3412,8 @@
     <Nome><![CDATA[Microsoft Office 2024 Home & Business - Mac]]></Nome>
     <Marca><![CDATA[Microsoft]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : MAC DURATA LICENZA : SENZA SCADENZA Office Home &amp; Business 2024 per Mac offre una licenza perpetua che consente di utilizzare le applicazioni come Word, Excel, PowerPoint, Outlook e OneNote su un singolo dispositivo senza scadenze o rinnovi annuali.]]></Descrizione>
-    <PrezzoRiferimento>159.90</PrezzoRiferimento>
-    <PrezzoVendita>129.90</PrezzoVendita>
+    <PrezzoRiferimento>299.90</PrezzoRiferimento>
+    <PrezzoVendita>199.90</PrezzoVendita>
     <CodiceInterno>MS-OFF24-HB-MAC-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/microsoft-office-2024-home-business-mac?variant=50055858913608]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
@@ -3428,8 +3428,8 @@
     <Nome><![CDATA[Microsoft Office 2024 Home & Business]]></Nome>
     <Marca><![CDATA[Microsoft]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS DURATA LICENZA : SENZA SCADENZA Office Home &amp; Business 2024 per Windows offre una licenza perpetua, consentendo l'uso di applicazioni come Word, Excel, PowerPoint, Outlook e OneNote su un singolo dispositivo senza necessità di rinnovi annuali. Office 2024 non ha scadenze, ma eventuali aggiornamenti richiedono costi aggiuntivi.]]></Descrizione>
-    <PrezzoRiferimento>159.90</PrezzoRiferimento>
-    <PrezzoVendita>129.90</PrezzoVendita>
+    <PrezzoRiferimento>299.90</PrezzoRiferimento>
+    <PrezzoVendita>199.90</PrezzoVendita>
     <CodiceInterno>MS-OFF24-HB-WIN-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/microsoft-office-2024-home-business-1?variant=53072776724808]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
