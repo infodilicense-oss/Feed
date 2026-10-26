@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <offers>
   <offer>
+    <Nome><![CDATA[AutoCAD 2027 + Revit 2027]]></Nome>
+    <Marca><![CDATA[Autodesk]]></Marca>
+    <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : AUTOCAD: WINDOWS/MAC - REVIT: WINDOWS DURATA LICENZA : 1 ANNO Il bundle AutoCAD 2027 + Revit 2027 riunisce due potenti strumenti Autodesk per la progettazione tecnica, architettonica e BIM. AutoCAD consente di creare disegni 2D e modelli 3D di precisione, mentre Revit permette di sviluppare e coordinare progetti BIM completi. Una soluzione ideale per architetti, ingegneri, progettisti e studi tecnici che desiderano gestire ogni fase del progetto con strumenti professionali e complementari.]]></Descrizione>
+    <PrezzoRiferimento>409.80</PrezzoRiferimento>
+    <PrezzoVendita>229.90</PrezzoVendita>
+    <CodiceInterno>BNDL-AUT27-REV27-1D-1Y</CodiceInterno>
+    <LinkOfferta><![CDATA[https://dilicense.com/products/autocad-2027-revit-2027?variant=54400920682824]]></LinkOfferta>
+    <Disponibilita>disponibile</Disponibilita>
+    <AlberoCategorie><![CDATA[Bundle]]></AlberoCategorie>
+    <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/cad_revit27.png?v=1792922899]]></LinkImmagine>
+    <SpeseSpedizione>0</SpeseSpedizione>
+    <Condizione>nuovo</Condizione>
+    <CodiceFornitore><![CDATA[BNDL-AUT27-REV27-1D-1Y]]></CodiceFornitore>
+    <ParentID>10372367450440</ParentID>
+  </offer>
+  <offer>
     <Nome><![CDATA[Office 2024 Professional Plus + Adobe Acrobat Pro 2020]]></Nome>
     <Marca><![CDATA[Microsoft]]></Marca>
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS DURATA LICENZA : SENZA SCADENZA Il bundle Document Pro, composto da Microsoft Office 2024 Professional Plus LTSC e Adobe Acrobat Pro 2020, offre una soluzione completa per creare, modificare e gestire documenti professionali. Ideale per aziende, professionisti e studi che desiderano utilizzare le principali applicazioni Microsoft e disporre di strumenti avanzati per modificare, convertire, organizzare e proteggere i file PDF, senza abbonamenti periodici.]]></Descrizione>
     <PrezzoRiferimento>429.80</PrezzoRiferimento>
     <PrezzoVendita>209.90</PrezzoVendita>
-    <CodiceInterno>54394018988360</CodiceInterno>
+    <CodiceInterno>BNDL-OFF24-ACRO20-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/office-2024-professional-plus-adobe-acrobat-pro-2020?variant=54394018988360]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
     <AlberoCategorie><![CDATA[Bundle]]></AlberoCategorie>
     <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/acro20_off24.png?v=1792849963]]></LinkImmagine>
     <SpeseSpedizione>0</SpeseSpedizione>
     <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[54394018988360]]></CodiceFornitore>
+    <CodiceFornitore><![CDATA[BNDL-OFF24-ACRO20-1D]]></CodiceFornitore>
     <ParentID>10369713242440</ParentID>
   </offer>
   <offer>
@@ -22,14 +38,14 @@
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS DURATA LICENZA : SENZA SCADENZA Il bundle Productivity Suite 2024, composto da Microsoft Office 2024 Professional Plus LTSC, Project Professional 2024 e Visio Professional 2024, offre una soluzione completa per produttività, pianificazione e visualizzazione dei processi. Ideale per aziende e professionisti che desiderano creare documenti, analizzare dati, gestire progetti complessi e realizzare diagrammi professionali utilizzando tre licenze perpetue su un unico dispositivo Windows.]]></Descrizione>
     <PrezzoRiferimento>229.90</PrezzoRiferimento>
     <PrezzoVendita>189.90</PrezzoVendita>
-    <CodiceInterno>54394001031496</CodiceInterno>
+    <CodiceInterno>BNDL-OFF24-PROJ24-VIS24-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/microsoft-office-2024-pro-plus-project-pro-2024-visio-2024?variant=54394001031496]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
     <AlberoCategorie><![CDATA[Bundle]]></AlberoCategorie>
     <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/visiooffproj24.png?v=1792849248]]></LinkImmagine>
     <SpeseSpedizione>0</SpeseSpedizione>
     <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[54394001031496]]></CodiceFornitore>
+    <CodiceFornitore><![CDATA[BNDL-OFF24-PROJ24-VIS24-1D]]></CodiceFornitore>
     <ParentID>10369708458312</ParentID>
   </offer>
   <offer>
@@ -38,14 +54,14 @@
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS DURATA LICENZE : WINDOWS 11 PRO E OFFICE 24 SENZA SCADENZA - MCAFEE INTERNET SECURITY 1 ANNO Il bundle PC Completo 2024 riunisce Windows 11 Pro, Microsoft Office 2024 Professional Plus LTSC e McAfee Internet Security 2025 in un’unica soluzione per lavorare e navigare in sicurezza. Ideale per privati, professionisti e piccole aziende che desiderano configurare una postazione completa con un sistema operativo moderno, gli strumenti Microsoft più recenti e una protezione antivirus dedicata per il primo anno.]]></Descrizione>
     <PrezzoRiferimento>174.80</PrezzoRiferimento>
     <PrezzoVendita>84.90</PrezzoVendita>
-    <CodiceInterno>54391431528776</CodiceInterno>
+    <CodiceInterno>BNDL-WIN11-OFF24-MCAFIS-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/windows-11-pro-office-2024-professional-plus-mcafee-internet-security?variant=54391431528776]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
     <AlberoCategorie><![CDATA[Bundle]]></AlberoCategorie>
     <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/win11off24mcafee.png?v=1792848334]]></LinkImmagine>
     <SpeseSpedizione>0</SpeseSpedizione>
     <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[54391431528776]]></CodiceFornitore>
+    <CodiceFornitore><![CDATA[BNDL-WIN11-OFF24-MCAFIS-1D]]></CodiceFornitore>
     <ParentID>10369435074888</ParentID>
   </offer>
   <offer>
@@ -54,14 +70,14 @@
     <Descrizione><![CDATA[LINGUA : MULTILINGUA NUMERO DISPOSITIVI : 1 SISTEMA OPERATIVO : WINDOWS DURATA LICENZA : SENZA SCADENZA Il bundle PC Essential 2021 , composto da Windows 11 Pro e Microsoft Office 2021 Professional Plus , offre tutto il necessario per lavorare, studiare e gestire le attività quotidiane in modo efficiente. Una soluzione completa e conveniente, ideale per privati, professionisti e piccole aziende che desiderano un sistema operativo moderno e gli strumenti Microsoft essenziali con licenze senza scadenza.]]></Descrizione>
     <PrezzoRiferimento>144.80</PrezzoRiferimento>
     <PrezzoVendita>59.90</PrezzoVendita>
-    <CodiceInterno>BND-W11P-O21PP-1PC</CodiceInterno>
+    <CodiceInterno>BNDL-W11-OFF24-1D</CodiceInterno>
     <LinkOfferta><![CDATA[https://dilicense.com/products/windows-11-pro-office-2021-professional-plus?variant=54391030415688]]></LinkOfferta>
     <Disponibilita>disponibile</Disponibilita>
     <AlberoCategorie><![CDATA[Bundle]]></AlberoCategorie>
     <LinkImmagine><![CDATA[https://cdn.shopify.com/s/files/1/0875/2975/0856/files/win11office21.png?v=1792834475]]></LinkImmagine>
     <SpeseSpedizione>0</SpeseSpedizione>
     <Condizione>nuovo</Condizione>
-    <CodiceFornitore><![CDATA[BND-W11P-O21PP-1PC]]></CodiceFornitore>
+    <CodiceFornitore><![CDATA[BNDL-W11-OFF24-1D]]></CodiceFornitore>
     <ParentID>10369314554184</ParentID>
   </offer>
   <offer>
